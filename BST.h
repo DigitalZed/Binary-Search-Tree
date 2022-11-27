@@ -1,6 +1,4 @@
 #pragma once
-#include <string>
-#include <map>
 
 template <typename T> class BST;
 template <typename T> class  Node;
